@@ -1,6 +1,6 @@
 {
   "name": "react-router-spa",
-  "base": "/react-router-spa/",
+  "base": "/react-router-app/",
   "private": true,
   "version": "1.0.0",
   "type": "module",
